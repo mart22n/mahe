@@ -13375,6 +13375,15 @@ section.u-image:not(.u-hover-box),
 .u-hide-footer .u-footer {
   display: none;
 }
+
+.u-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1000 !important;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1) !important;
+  background-color: white !important;
+
+}
 .u-absolute-hcenter {
   left: 50% !important;
   transform: translateX(-50%);
