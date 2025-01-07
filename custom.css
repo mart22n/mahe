@@ -45,16 +45,30 @@
 
 
 /*first farm section*/
-.u-section-3 .u-image-1 {
-  min-height: 630px;
-  background-image: url("images/saara-sead.jpg") !important;
-  background-position: 0% 50%;
-  background-color: #fafafa;
-}
+/* .u-section-3 .u-image-1 { */
+  /* min-height: 630px; */
+  /* background-image: url("images/saara-sead.jpg") !important; */
+  /* background-position: 0% 50%; */
+  /* background-color: #fafafa; */
+/* } */
+
+/* .u-section-3 .u-image-1 { */
+  /* min-height: 630px; */
+  /* background-image: url("images/lepaniidi-kitsed.jpg") !important; */
+  /* background-position: 0% 50%; */
+  /* background-color: #fafafa; */
+/* } */
 
 
 .u-section-1 .u-image-1 {
   min-height: 683px;
   background-image: url("images/main-page-bg.jpg");
   background-position: 50% 50%;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, #98bc65, #f5f5f5, #98bc65);
+    margin: 20px 0;
 }

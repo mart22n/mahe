@@ -464,11 +464,11 @@ samp {
   font-family: monospace,monospace;
   font-size: 1em;
 }
-hr {
+/* hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
-}
+} */
 button,
 input,
 optgroup,
