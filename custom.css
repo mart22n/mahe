@@ -1,6 +1,7 @@
  /*main title */
 .u-text.u-text-palette-1-base.u-text-2.u-title {
 	color: #98bc65 !important;
+	font-size: 4rem !important;
 }
 
 /*page subtitle, food menu elements*/
@@ -11,12 +12,14 @@
 /*section titles */
 .u-text.u-text-palette-1-base.u-text-2 {
 	color: #98bc65 !important;
+	font-size: 3rem !important;
 }
 
 /*farm description*/
 .u-farm-text {
   font-size: 1.125rem;
   margin: 14px 0 0;
+  font-style: normal !important;
 }
 
 
@@ -46,11 +49,12 @@
   min-height: 630px;
   background-image: url("images/saara-sead.jpg") !important;
   background-position: 0% 50%;
+  background-color: #fafafa;
 }
 
 
 .u-section-1 .u-image-1 {
   min-height: 683px;
-  background-image: url("images/main-page-bg");
+  background-image: url("images/main-page-bg.jpg");
   background-position: 50% 50%;
 }
