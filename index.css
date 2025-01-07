@@ -31,7 +31,7 @@
 }
 
 .u-section-1 .u-text-3 {
-  font-style: italic;
+  /* font-style: italic; */
   font-size: 1.125rem;
   margin: 14px 0 0;
 }
@@ -42,11 +42,11 @@
   padding: 19px 59px 20px;
 }
 
-.u-section-1 .u-image-1 {
+/* .u-section-1 .u-image-1 {
   min-height: 683px;
-  background-image: url("images/05096a4dd6324fe978420e015a77f641.jpeg");
+  background-image: url("images/main-page-bg");
   background-position: 50% 50%;
-}
+} */
 
 .u-section-1 .u-container-layout-2 {
   padding: 30px 60px;

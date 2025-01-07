@@ -1,0 +1,56 @@
+ /*main title */
+.u-text.u-text-palette-1-base.u-text-2.u-title {
+	color: #98bc65 !important;
+}
+
+/*page subtitle, food menu elements*/
+.u-text.u-text-palette-2-base.u-text-2.food-menu-descr {
+	color: #000000 !important;
+}
+
+/*section titles */
+.u-text.u-text-palette-1-base.u-text-2 {
+	color: #98bc65 !important;
+}
+
+/*farm description*/
+.u-farm-text {
+  font-size: 1.125rem;
+  margin: 14px 0 0;
+}
+
+
+/*picture description*/
+.u-farm-pic-descr {
+	font-style: italic;
+  font-size: 1.125rem;
+  margin: 14px 0 0;
+}
+
+
+/*food menu elements*/
+.food-menu-descr
+ {
+	color: #000000 !important;
+	font-style: italic;
+}
+
+
+.u-btn.u-button-style.u-btn-1 {
+	color: #98bc65 !important;
+}
+
+
+/*first farm section*/
+.u-section-3 .u-image-1 {
+  min-height: 630px;
+  background-image: url("images/saara-sead.jpg") !important;
+  background-position: 0% 50%;
+}
+
+
+.u-section-1 .u-image-1 {
+  min-height: 683px;
+  background-image: url("images/main-page-bg");
+  background-position: 50% 50%;
+}
