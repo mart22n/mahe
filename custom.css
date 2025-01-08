@@ -74,3 +74,14 @@ hr {
     background: linear-gradient(to right, #98bc65, #f5f5f5, #98bc65);
     margin: 20px 0;
 }
+
+/* slide-in navbar color */
+.u-black .u-container-style .u-inner-container-layout .u-opacity .u-opacity-95 .u-sidena {
+	color: #e3effb !important; 
+}
+
+/* menu items */
+.u-button-style .u-nav-link {
+	color: #98bc65 !important;
+}
+
