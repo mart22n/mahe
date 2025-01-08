@@ -40429,7 +40429,7 @@ li.active > a.u-button-style.u-text-palette-2-base,
 li.active > a.u-button-style.u-text-palette-2-base[class*="u-border-"],
 a.u-button-style.u-text-palette-2-base,
 a.u-button-style.u-text-palette-2-base[class*="u-border-"] {
-  color: #db545a !important;
+  color: #db545a;
   
   
   

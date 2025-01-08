@@ -1,12 +1,12 @@
  /*main title */
 .u-text.u-text-palette-1-base.u-text-2.u-title {
 	color: #98bc65 !important;
-	font-size: 4rem !important;
+	font-size: 3rem !important;
 }
 
-/*page subtitle, food menu elements*/
-.u-text.u-text-palette-2-base.u-text-2.food-menu-descr {
-	color: #000000 !important;
+/*page subtitle, buttons, food menu elements*/
+.u-text.u-text-palette-2-base.u-text-1 {
+	color: #478ac9 !important;
 }
 
 /*section titles */
@@ -40,7 +40,7 @@
 
 
 .u-btn.u-button-style.u-btn-1 {
-	color: #98bc65 !important;
+	color: #FFFFFF !important;
 }
 
 
@@ -62,7 +62,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 683px;
-  background-image: url("images/main-page-bg.jpg");
+  background-image: url("images/main-page-bg-cropped.jpg");
   background-position: 50% 50%;
 }
 
