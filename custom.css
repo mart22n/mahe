@@ -7,6 +7,8 @@
 /*page subtitle, buttons, food menu elements*/
 .u-text.u-text-palette-2-base.u-text-1 {
 	color: #478ac9 !important;
+	font-size: 1.5rem;
+	font-style:italic
 }
 
 /*section titles */
@@ -62,7 +64,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 683px;
-  background-image: url("images/main-page-bg-cropped.jpg");
+  background-image: url("images/main-page-bg-cropped-2.jpg");
   background-position: 50% 50%;
 }
 
